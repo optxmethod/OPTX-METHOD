@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPTIVERSE X</string>
+    <!-- ONLY place to edit: your hosted website (GitHub Pages) link -->
+    <string name="site_url">https://YOUR-NAME.github.io/YOUR-REPO/</string>
+</resources>
